@@ -1,4 +1,4 @@
-module github.com/kcorlidy/test-grpc×micro/grpc-errorone
+module github.com/kcorlidy/test-grpc-micro/grpc-errorone
 
 go 1.14
 

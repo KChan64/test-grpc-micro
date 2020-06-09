@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	hello "github.com/kcorlidy/test-grpc×micro/grpc-errorone/greeter/srv/proto/hello"
+	hello "github.com/kcorlidy/test-grpc-micro/grpc-errorone/greeter/srv/proto/hello"
 	"github.com/micro/go-micro"
 	"github.com/micro/go-micro/service/grpc"
 

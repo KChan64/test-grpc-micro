@@ -1,4 +1,4 @@
-module github.com/kcorlidy/test/grpc
+module github.com/kcorlidy/test-grpc-micro/grpc
 
 go 1.14
 
