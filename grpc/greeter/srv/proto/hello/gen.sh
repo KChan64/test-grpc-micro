@@ -51,7 +51,7 @@ function checkEnv(){
 function CreateProtofile(){
 	# pb
 	# --go_out=plugins=grpc: add grpc server api
-	OUT="--go_out=plugins=micro:."
+	OUT="--go_out=."
 	if [[ ! $MIRCO ]]; then
 		OUT="--go_out=plugins=grpc:."
 	fi
